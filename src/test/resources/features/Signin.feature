@@ -1,6 +1,6 @@
 Feature: TEK Retail Application Signin feature
 
-  
+  @Regression
   Scenario: Verify user can sign in into Retail Application
     Given User is on retail website
     When User Click on Sign in option
